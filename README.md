@@ -6,3 +6,16 @@ You can click the Preview link to take a look at your changes.
 --->
 A feature-rich IMDb clone built using ReactJS, offering a responsive and intuitive user interface for exploring movies,
 view detailed information, and enjoy a seamless user experience with this IMDb clone developed using ReactJS.
+
+Features
+_________________________________________________________________________________________________________________________________________________________________________________________
+Description of the movie
+Displaying the popular movies
+It uses the carsouel wallpaper
+
+
+TechStack
+_________________________________________________________________________________________________________________________________________________________________________________________
+Frontend - React
+
+
